@@ -1,0 +1,619 @@
+css.html
+<html>
+<title><h1>MELT AT BITE|CAKES CAFE</h1></title>
+<frameset rows="30%,10%,*,15%">
+<center><frame src ="logo.html" height="30px" width="200px" scrolling="no"></center>
+<frame src="home.html">
+<frame src="home1.html">
+<frame src="contact.html">
+</frameset>
+</html>
+logo.html
+<html>
+<body bgcolor="#FAAFBA"></body>
+<center> <img src="croped.jpg" width="100" height="100">
+<h1>MELT AT BITE</h1></center></body>
+</html>
+home.html
+<html><body style="background-color:pink">
+<a href="css.html" target="_blank">
+<button> HOME </button></a>
+<a href="like.html" target="_blank">
+<button>ABOUT US</button></a>
+<a href="like2.html" target="_blank">
+<button>CREATIONS</button></a>
+<a href="des2.html" target="_blank">
+<button> AS YOUR WISH </button></a>
+<a href="pi2.html" target="_blank">
+<button> PICK YOUR CAKE </button></a>
+<a href="add2.html" target="_blank">
+<button> DELIVER TO</button></a> <a href="last.html" target="_blank">
+<button> STARS & THOUGHTS</button></a>
+</body></html>
+Home.html
+<html><body>
+<img src="home.jpg" width="300" style="float:left; margin-right:50px">
+<p align ="right"><h1>WELCOME TO MELT AT BITE<br>
+</p> </h1>we bake your dream cakes with love and care <br>from classic to customized desings
+.Delicious cakes made with love,creativity, and the finest ingredients.from birthdays to special
+celebrations,choose your favourite cake and make every moment sweeter
+.Explore our delicious creations and order your perfect cake today!&#128522</h1></p><div class="p">
+<a href="like.html" target="_blank" ><button style="color:purple;"><p align="right">EXPLORE 
+NOW</button></p></a>
+</div></body></html>
+Contact.html
+<html>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-
+icons.min.css">
+<style>
+.con{
+display:flex;
+word-spacing:200px;
+}
+</style>
+<body bgcolor="gray">
+<divclass="con"><p>&#128222:9876543210 &#128231:meltatbite@gmail.com
+&#128205:14,julystreet,paris,2001430 <i class="bi bi-instagram"></i>:@Meltatbite
+</p>
+</div>
+</body>
+</html>
+About us.html <html>
+<style>
+.wave-section{
+background:#C4A484;
+padding:50px 20px;
+color:white;
+position:relative;
+border-radius:0 0 50% 50% / 0 0 20px 20px;
+}
+</style>
+<body bgcolor="#C4A484" >
+<img src="cake2.webp" width="300" style="float:left; margin-right:50px">
+<p align ="right"><h1>WELCOME TO MELT AT BITE<br>
+</p> </h1>we bake your dream cakes with love and care <br>from classic to customized desings
+.Delicious cakes made with love,creativity, and the finest ingredients.from birthdays to special 
+celebrations,choose your favourite cake and make every moment sweeter.Explore our delicious creations 
+and order your perfect cake today!&#128522
+we bwelieve that every celebration deserves a sweet centerpiece.founded in 2009 in paris ,our journey 
+began with a simple mixing bowl, a lover for sweet scents,and a dream to spread joy one slice at a time.We 
+handcreaft every cake and dessert from scratch using fresh,high-quality ingredients.Whether it is a rich 
+chocolate birthday cake,a delicate wedding tier,or custom cupcakes for a party, we pur our love and care 
+into every single creation.Thankyou&#128150.We proud to serve our community and look forward to 
+making your days a little sweeter&#10023!
+\</h1><h1></p></h1></div><center></center>
+<a href="like2.html" target="_blank" ><p align="right"><button 
+style="color:black;">NEXT</button></p></a>
+<a href="css.html" target="_blank" ><p align="left"><button style="color:black;" 
+>BACK</button></p></a></div></div></body></html>
+Creations.html
+<html>
+<head>
+<title>OUR CREATIONS</title>
+<style>
+.creat{
+display:flex; grid-template-columns:auto auto ;
+column-gap:15px;
+width:20px;
+}
+.cake-box{
+border:7px solid rgba(255, 255, 0, 0.815);
+padding:10px;
+text-align: center;
+}
+.cake-img{
+width:1000%;
+height:200px;
+}
+</style>
+</head>
+<body bgcolor="#87CEFA">
+<div class="creat">
+<div class="cake-box">
+<img src="choco.j.jpg">
+<a href="chocolate2.html"><br><button><h4> CHOCOLATE CAKES</h4> </button>
+</a>
+</div>
+<div class="cake-box">
+<img src="vanila.jpeg">
+<a href="vanilaa.html"><br><button>
+<H4>VANILAA</H4> </a></button>
+</a> </div>
+<div class="cake-box">
+<img src="red.jpeg">
+<a href="redvelvet.html"><br><button><h4>RED VELVET</h4></button>
+</a>
+</div>
+<div class="cake-box">
+<img src="cup.jpg">
+<a href="cupcakes.html"><br><button><h4>CUP CAKES</h4></button>
+</a>
+</div></tr>
+<div class="cake-box">
+<img src="brownie.jfif">
+<a href="brownieprice.html"><br><button><h4>BROWNIES</h4></a></button>
+</a>
+</div>
+</table>
+</div>
+</body>
+</html>
+Chocolate2.html
+<html>
+<style>
+.grid-parent{
+background-color:brown;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px; border-color: brown;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#E2CEB1;
+border:brown;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="brown">
+<div class="grid-parent">
+<div class="grid-child"><img src="Chocolate-Truffle-Cake-1.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">CHOCOLATE TRUFFLE</button></div>
+<div class="grid-child"><img src="choco.j.jpg" width="200px" height="200px"><br><button 
+bgcolor="#7B3F00">CHOCOLATE CAKE</button> </div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="Choco-Shaved-Cake-510x510.jpeg" width="200px" 
+height="200px"><br><button>SHAVED CHOCOLATE CAKE</button></div>
+<div class="grid-child"><img src="chocolate-rose-designer-cake_1.jpg" width="200px" 
+height="200px"><br><button>CHOCOLATE ROSE</button></div>
+</div>
+</body>
+Vanilaa.html
+<html>
+<style>
+.grid-parent{
+background-color:pink;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto; column-gap:15px;
+border-color: pink;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:whitesmoke;
+border:pink;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="pink">
+<div class="grid-parent">
+<div class="grid-child"><img src="vanila.jpeg" width="200px" height="200px"><br><button 
+bgcolor>VANILAA</button></div>
+<div class="grid-child"><img src="images.jfif" width="200px" height="200px"><br><button >VANILAA 
+WITH ROSE</button> </div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="images (1).jfif" width="200px" 
+height="200px"><br><button>VANILAA</button></div>
+<div class="grid-child"><img src="e7508153cee3c25e59790c0e7f20ec6c.jpg" width="200px" 
+height="200px"><br><button>PINKY VANILLA</button></div>
+</a> </div>
+</body>
+</html>
+cupcakes.html
+<html>
+<style>
+.grid-parent{
+background-color:paleturquoise;
+display:grid; gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color:paleturquoise;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:paleturquoise;
+border:paleturquoise;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="palevioletred">
+<div class="grid-parent">
+<div class="grid-child"><img src="cup.jpg" width="200px" height="200px"><br><button background-
+color:&#FAAFBA>CHOCO<br></button>
+</div>
+<div class="grid-child"><img src="cup3.jfif" width="200px" height="200px"><br><button 
+>COFFEE</button> </div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="chocolate_cupcake_recipe.webp" width="200px" 
+height="200px"><br><button>CHOCO CAKE</button></div>
+<div class="grid-child"><img src="images (3).jfif" width="200px" height="200px"><br><button>OREO 
+CUPCAKE</button></div>
+</div>
+</body>
+</html>
+Redvelvet.html
+<html>
+<style> .grid-parent{
+background-color:red;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: red;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#ffcbd1;
+border:red;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="red">
+<div class="grid-parent">
+<div class="grid-child"><img src="redvel.jpg" width="200px" height="200px"><br><button 
+bgcolor>HEARTY</button></div>
+<div class="grid-child"><img src="redvelvet.png" width="200px" height="200px"><br><button >RED 
+HEARTS</button></div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="images (2).jfif" width="200px" 
+height="200px"><br><button>CHERRY </button>s</div>
+<div class="grid-child"><img src="red.jpeg" width="200px" height="200px"><br><button>REDISH 
+VELVET</button></div>
+</div>
+</body>
+</html>
+Brownieprice.html <html>
+<style>
+.grid-parent{
+background-color:brown;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: brown;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#E2CEB1;
+border:brown;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="brown">
+<div class="grid-parent">
+<div class="grid-child"><img src="Whole_Wheat_Brownies_v2_10.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">WHEAT BROWNIE</button>
+</div>
+<div class="grid-child"><img src="22d02c3cbb0b2ba46f0089b6c94821fa.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">CHOCO TRUFFLE</button></div>
+</div>
+<div class="grid-parent">
+<div class="grid-child"><img src="brownie.jfif" width="200px" height="200px"><br><button>EGG 
+LESS</button> </div>
+<div class="grid-child"><img src="Brownie-Recipe.jpg" width="200px" 
+height="200px"><br><button>CHOCO CHIPS</buttton></div>
+</div>
+</div>
+</body>
+</html>
+Pi.html
+<html>
+<style>
+.d{
+border-radius:10px;
+border:3px solid black;
+padding: 20PX;
+width: 300px;
+text-align: center;
+justify-content: center;
+align-items: center;
+margin: auto auto;
+}
+</style><head><center><b></H1>CAKES&#127872</H1></b></center></head><BR>
+<body background="croped2.jpg">
+<DIV CLASS="d">
+<a href="chocolate3.html" target="_blank"><center><button style="background-color: 
+palevioletred;">CHOCOALTE PRICE </button></center></a><br><br>
+<a href="red3.html" target="_blank"><center><button style="background-color:palevioletred ;">RED 
+VELVET PRICE</button></center></a><br><br> <a href="vanila3.html" target="_blank"><center><button style="background-color: 
+palevioletred;">VANILLA PRICE</button></center></a><br><br>
+<a href="brownie3.html" target="_blank"><center><button style="background-color: 
+palevioletred;">BROWNIE PRICE</button></center></a><br></br>
+<a href="cupcakes3.html" target="_blank"><center><button style="background-color: palevioletred;"> 
+CUPCAKE PRICE</button></center></a><br><br></DIV><p align="right">
+<a href="describe.html">
+<button style="background-color: yellowgreen; color: white; border-radius: 10px;">DESCRIBE YOUR 
+CAKE</button></p></a></body>
+</body>
+</html>
+Chocolateprice.html
+<html>
+<style>
+.grid-parent{
+background-color:brown;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: brown;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#E2CEB1;
+border:brown;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="brown">
+<div class="grid-parent"> <div class="grid-child"><img src="Chocolate-Truffle-Cake-1.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">CHOCOLATE TRUFFLE</button><br><a 
+href="address.html" target="_blank"><button style="background-color:skyblue;">BUY:&#x20B9 
+2,500/lkg</button></a></div>
+<div class="grid-child"><img src="choco.j.jpg" width="200px" height="200px"><br><button 
+bgcolor="#7B3F00">CHOCOLATE CAKE</button><br><a href="address.html" 
+target="_blank"><button style="background-color:skyblue;">BUY:&#x20B9 900/lkg</button> 
+</a></div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="Choco-Shaved-Cake-510x510.jpeg" width="200px" 
+height="200px"><br><button>SHAVED CHOCOLATE CAKE</button><br><a href="address.html" 
+target="_blank"><button style="background-color:skyblue;">BUY:&#x20B9 
+1,200/lkg</button></a></div>
+<div class="grid-child"><img src="chocolate-rose-designer-cake_1.jpg" width="200px" 
+height="200px"><br><button>CHOCOLATE ROSE</button><br><a href="address.html" 
+target="_blank"><button style="background-color:skyblue;">BUY:&#x20B9 800/lkg</button></a></div>
+</a> </div>
+</body>
+</html>
+Vanillaprice.html
+<html>
+<style>
+.grid-parent{
+background-color:pink;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: pink;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:whitesmoke;
+border:pink;
+padding:50px; text-align: center;
+}
+</style>
+<body bgcolor="pink">
+<div class="grid-parent">
+<div class="grid-child"><img src="vanila.jpeg" width="200px" height="200px"><br><button 
+bgcolor>VANILAA</button><br><button style="background-color:skyblue;">BUY:&#x20B9 
+800/lkg</button></div>
+<div class="grid-child"><img src="images.jfif" width="200px" height="200px"><br><button >VANILAA 
+WITH ROSE</button><br><button style="background-color:skyblue;">BUY:&#x20B9 900/lkg</button> 
+</div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="images (1).jfif" width="200px" 
+height="200px"><br><button>VANILAA</button><br><button style="background-
+color:skyblue;">BUY:&#x20B9 450/lkg</button></div>
+<div class="grid-child"><img src="e7508153cee3c25e59790c0e7f20ec6c.jpg" width="200px" 
+height="200px"><br><button>PINKY VANILLA</button><br><button style="background-
+color:skyblue;">BUY:&#x20B9 400/lkg</button></div>
+</div>
+</body>
+</html>
+Cupcakes.html
+<html>
+<style>
+.grid-parent{
+background-color:paleturquoise;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color:paleturquoise;
+padding :margin-left 20px;
+} .grid-child{
+background-color:paleturquoise;
+border:paleturquoise;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="palevioletred">
+<div class="grid-parent">
+<div class="grid-child"><img src="cup.jpg" width="200px" height="200px"><br><button background-
+color:&#FAAFBA>CHOCO<br>
+</button><a href="address.html" target="_blank"><br><button style="background-
+color:skyblue;">BUY:&#x20B9 500/kg</button></a>
+</div>
+<div class="grid-child"><img src="cup3.jfif" width="200px" height="200px"><br><button 
+>COFFEE</button> <br><a href="address.html" target="_blank">
+<button style="background-color:skyblue;">BUY:&#x20B9 800/kg</button></a></div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="chocolate_cupcake_recipe.webp" width="200px" 
+height="200px"><br><button>CHOCO CAKE</button><br><a href="address.html" target="_blank">
+<button style="background-color:skyblue;">BUY:&#x20B9 700/kg</button></a></div>
+<div class="grid-child"><img src="images (3).jfif" width="200px" height="200px"><br><button>OREO 
+CUPCAKE</button><br><a href="address.html" target="_blank">
+<button style="background-color:skyblue;">BUY:&#x20B9 900/lkg</button></a></div>
+</div>
+</body>
+</html>
+Redvelvetprice.html
+<html>
+<style>
+.grid-parent{
+background-color:red;
+display:grid;
+gap:10px; grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: red;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#ffcbd1;
+border:red;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="red">
+<div class="grid-parent">
+<div class="grid-child"><img src="redvel.jpg" width="200px" height="200px"><br><button 
+bgcolor>HEARTY</button><br><a href="address.html" target="_blank"><button style="background-
+color:skyblue;">BUY:&#x20B9 950/lkg</button></a></div>
+<div class="grid-child"><img src="redvelvet.png" width="200px" height="200px"><br><button >RED 
+HEARTS</button> <br><a href="address.html" target="_blank">><button style="background-
+color:skyblue;">BUY:&#x20B9 2,500/lkg</button></a></div></div>
+<div class="grid-parent">
+<div class="grid-child"><img src="images (2).jfif" width="200px" 
+height="200px"><br><button>CHERRY </button><br><a href="address.html" target="_blank"><button 
+style="background-color:skyblue;">BUY:&#x20B9 1200/lkg</button></a></div>
+<div class="grid-child"><img src="red.jpeg" width="200px" height="200px"><br><button>REDISH 
+VELVET</button><br><a href="address.html" target="_blank"><button style="background-
+color:skyblue;">BUY:&#x20B9 1000/lkg</button></a></div>
+</div>
+</body>
+</html>
+Brownieprice.html
+<html>
+<style>
+.grid-parent{ background-color:brown;
+display:grid;
+gap:10px;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto;
+column-gap:15px;
+border-color: brown;
+padding :margin-left 20px;
+}
+.grid-child{
+background-color:#E2CEB1;
+border:brown;
+padding:50px;
+text-align: center;
+}
+</style>
+<body bgcolor="brown">
+<div class="grid-parent">
+<div class="grid-child"><img src="Whole_Wheat_Brownies_v2_10.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">WHEAT BROWNIE</button>
+</div>
+<div class="grid-child"><img src="22d02c3cbb0b2ba46f0089b6c94821fa.jpg" width="200px" 
+height="200px"><br><button bgcolor="#7B3F00">CHOCO TRUFFLE</button></div>
+</div>
+<div class="grid-parent">
+<div class="grid-child"><img src="brownie.jfif" width="200px" height="200px"><br><button>EGG 
+LESS</button>
+</div>
+<div class="grid-child"><img src="Brownie-Recipe.jpg" width="200px" 
+height="200px"><br><button>CHOCO CHIPS</buttton></div>
+</div> </div>
+</body>
+</html>
+Describe.html
+<html>
+<body background="bg.jfif"><form> description:<br/>
+<textarea rows="10" cols="50" name="description" background-img="bg.jfif">
+Enter your wish to bake your cake here......
+</textarea> </form> <p align="right"></body>
+<a href="address.html"><button style="font-family: fantasy; background-color: sienna; border-radius: 
+30px;">YOUR ADDRESS TO DELIVER</button></a></p>
+</html>
+Address.html
+<html>
+<style>
+.p{
+text-align: center;
+}
+.btn
+{
+border: 2px solid white;
+border-radius: 20px;
+background-color:white;
+color:black;
+font-size: 10px;
+padding: 5px;
+}
+</style>
+<head>
+<center> <h1>────୨YOUR ADDRESS TO DELIVER🛒ৎ──── </h1></center>
+</head> <BODY background="YE.jfif">
+<div class="p">
+<form>
+<b><h5>NAME:<input type="text" name="name"><br><br><br>
+ADDRESS: <textarea rows="4" cols="15" name="address">
+</textarea><br><br><br>
+<label for="city">CITY:</label>
+<select name="city" id="city">
+<option value="YARDLEY" selected>YARDLEY</option>
+<option value="DENVER" selected>DENVER</option>
+<option value="BELLAVITA" selected>BELLAVITA</option>
+<option value="EIFFLE TOWER" selected>YADRLEY</option>
+</select><br><br><br>
+EMAIL:<input type="text" name="name"><br><br><br>
+KILOGRAM:<input type="text" name="name"><br><br><br>
+PHONE NO:<input type="text" name="name"><br><br><br>
+DELIVERY DATE:<input type="text" name="name"><br><br><br>
+FAMOUS PLACE NEAR
+BY YOUR ADDRESS:<input type="text" name="name"><br><br><br>
+</form>
+<a href="order.html" class="btn">ORDER</a></p>
+<p align="margin-left"> <a href="pi.html" class="btn">BACK</a></p>
+</BODY>
+</html>
+Order.html
+<HTML>
+<BODY bgcolor="white">
+<marquee direction="down"> <center> <b><H1>YOUR ORDER IS PLACED!🛍️</H1></b></marquee>
+<center><a href="last.html"> <img src="chick.jpg"></center></a>
+</body>
+</html> Last.html
+<html>
+<style>
+.stars {
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+}
+.stars span {
+font-size: 40px;
+color: lightgray;
+cursor: pointer;
+}
+.stars span:hover,
+.stars span:hover ~ span {
+color: hotpink;
+}</STYLE>
+<body bgcolor="skyblue"><center>
+<h1>⭐ Stars & Thoughts 💭</h1><BR>RATINGS
+<div class="stars">
+<BR><span>★</span>
+<span>★</span>
+<span>★</span>
+<span>★</span>
+<span>★</span>
+</div>
+THOUGHTS:<BR><BR><textarea rows="2" cols="20" name="address">your experience here... </textarea><br><br><br><a href ="thank.html">
+<CENTER><IMG SRC="PENGUIN.jfif"</CENTER></a>
+</center></body></html>
+thank.html
+<html>
+<body font-family="sans-serif"><CENTER>
+<h1><b>THANK YOU FOR VISITING US 🌸✨<BR><H5>WE HOPE YOU ENJOY THE CAKE 
+WITH HAPPINESS😻</H5></b></h1>
+<IMG SRC="bee.jfif"></CENTER></body></body></html>
